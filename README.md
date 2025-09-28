@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="200"/>
+  <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="320"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Houssam</h1>
